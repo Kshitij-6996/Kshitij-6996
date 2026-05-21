@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kshitij 👋
 
-<!--
-**Kshitij-6996/Kshitij-6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech Student passionate about Artificial Intelligence, RAG Systems, Full Stack Development, and DevOps.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently exploring RAG pipelines, LLMs, and intelligent systems
+- 💻 Building modern web applications and AI-powered projects
+- ⚡ Interested in Full Stack Development, DevOps, and Generative AI
+- 🚀 Learning in public and continuously improving through projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- JavaScript
+- TypeScript
+- React.js
+- Node.js
+- Docker
+- Git & GitHub
+- HTML/CSS
+- SQL
+
+## Featured Projects
+
+### 🩺 MediLens
+AI-powered healthcare intelligence platform leveraging Retrieval-Augmented Generation (RAG) and intelligent retrieval workflows.
+
+### 🌱 BloomCraft
+Modern AI-powered educational platform focused on scalable frontend architecture and engaging user experiences.
+
+## Currently Learning
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Prompt Engineering
+- DevOps & Cloud Fundamentals
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/kshitij-nasu
