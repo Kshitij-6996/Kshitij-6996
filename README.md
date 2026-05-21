@@ -32,6 +32,11 @@ Modern web application focused on scalable frontend architecture and interactive
 * Full Stack Development
 * DevOps Fundamentals
 
+## Achievements
+
+- Top 20 Finalist — HackWithAI 24-Hour AI Hackathon conducted by ACM KLH Bachupally
+- Featured Project Recognition — GDGC Project of the Month
+
 ## Links
 
 [LinkedIn](https://linkedin.com/in/kshitij-nasu)
