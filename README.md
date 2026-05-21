@@ -34,4 +34,4 @@ Modern web application focused on scalable frontend architecture and interactive
 
 ## Links
 
-LinkedIn: linkedin.com/in/kshitij-nasu
+[LinkedIn](https://linkedin.com/in/kshitij-nasu)
