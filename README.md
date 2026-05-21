@@ -1,36 +1,37 @@
-# Hi, I'm Kshitij 👋
+# Kshitij Nasu
 
-🚀 BTech Student passionate about Artificial Intelligence, RAG Systems, Full Stack Development, and DevOps.
+BTech student focused on Artificial Intelligence, Retrieval-Augmented Generation (RAG), Full Stack Development, and DevOps.
 
-## About Me
-- 🌱 Currently exploring RAG pipelines, LLMs, and intelligent systems
-- 💻 Building modern web applications and AI-powered projects
-- ⚡ Interested in Full Stack Development, DevOps, and Generative AI
-- 🚀 Learning in public and continuously improving through projects
+Currently exploring intelligent systems, LLM workflows, and scalable web application development through hands-on projects and continuous learning.
 
 ## Tech Stack
-- JavaScript
-- TypeScript
-- React.js
-- Node.js
-- Docker
-- Git & GitHub
-- HTML/CSS
-- SQL
 
-## Featured Projects
+* JavaScript / TypeScript
+* React.js
+* Node.js
+* Docker
+* Git & GitHub
+* HTML / CSS
+* SQL
 
-### 🩺 MediLens
-AI-powered healthcare intelligence platform leveraging Retrieval-Augmented Generation (RAG) and intelligent retrieval workflows.
+## Projects
 
-### 🌱 BloomCraft
-Modern AI-powered educational platform focused on scalable frontend architecture and engaging user experiences.
+### MediLens
 
-## Currently Learning
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Prompt Engineering
-- DevOps & Cloud Fundamentals
+AI-powered healthcare intelligence platform leveraging Retrieval-Augmented Generation (RAG) and contextual retrieval workflows.
 
-## Connect With Me
-- LinkedIn: https://linkedin.com/in/kshitij-nasu
+### BloomCraft
+
+Modern web application focused on scalable frontend architecture and interactive learning experiences.
+
+## Current Focus
+
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Full Stack Development
+* DevOps Fundamentals
+
+## Links
+
+LinkedIn: linkedin.com/in/kshitij-nasu
